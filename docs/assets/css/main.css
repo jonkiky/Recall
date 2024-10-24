@@ -3335,6 +3335,9 @@ input, select, textarea {
 					display: inline;
 				}
 
+				#header h1 {
+			font-size: 100px;
+		}
 		/* Footer */
 
 			#footer {
@@ -3349,6 +3352,10 @@ input, select, textarea {
 	@media screen and (max-width: 980px) {
 
 		/* List */
+
+		#header h1 {
+			font-size: 90px;
+		}
 
 			ul.major-icons li {
 				padding: 2em;
@@ -3466,6 +3473,10 @@ input, select, textarea {
 				#header .actions {
 					margin: 2em 0 0 0;
 				}
+
+				#header h1 {
+			font-size: 50px;
+		}
 
 		/* Footer */
 
